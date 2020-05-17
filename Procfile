@@ -1,0 +1,1 @@
+gunicorn resiliencia_project.wsgi --log-file -
